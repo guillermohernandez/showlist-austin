@@ -2,6 +2,11 @@ Showlist Austin
 ======
 **Showlist Austin** is a reboot of one of my favorites local sites, Showlist Austin. Originally built with AngularJS, now in vue.js
 
+## Todo
+
+- [x] refactor AngularJS to vue.js
+- [ ] User Story: I can add shows
+
 ## Demo
 http://codepen.io/guillermohernandez/full/ZWobOJ/
 
